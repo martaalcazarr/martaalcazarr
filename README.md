@@ -19,7 +19,7 @@
 
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=martaalcazarr&show_icons=true&locale=en&layout=compact&theme=dark" alt="martaalcazarr" /></p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=martaalcazarr&show_icons=true&locale=en&hide=stars,issues,contribs&hide_rank=true&theme=dark" alt="martaalcazarr" /></p>
+ 
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=martaalcazarr&theme=dark" alt="martaalcazarr" /></p>
 
 
