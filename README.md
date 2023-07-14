@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Marta Alcázar Redondo</h1>
 <h3 align="center">A fullstack developer from Chile</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails** and **UX Design**
 
 - 📫 How to reach me **martaalcazarredondo@gmail.com**
 
